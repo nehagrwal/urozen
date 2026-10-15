@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/urozen/sitemap.xml
+Sitemap: https://urozen.vercel.app/sitemap-vercel.xml
+Sitemap: https://urozen.pages.dev/sitemap-cloudflare.xml
